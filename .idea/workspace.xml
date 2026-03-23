@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4e3481f-116c-40f8-937e-2e7f112abd26" name="Changes" comment="add assignment4">
-      <change afterPath="$PROJECT_DIR$/module_10/assignment1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_10/assignment2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_10/assignment3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/module_10/assignment4.py" afterDir="false" />
+    <list default="true" id="b4e3481f-116c-40f8-937e-2e7f112abd26" name="Changes" comment="add assignment1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10/assignment2.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10/assignment2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_10/assignment3.py" beforeDir="false" afterPath="$PROJECT_DIR$/module_10/assignment3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1773820828968</updated>
       <workItem from="1773820830347" duration="5313000" />
-      <workItem from="1774254156766" duration="1548000" />
+      <workItem from="1774254156766" duration="6279000" />
     </task>
     <task id="LOCAL−00001" summary="add ohjelmisto2">
       <option name="closed" value="true" />
@@ -113,7 +111,14 @@
       <option name="presentableId" value="LOCAL−00004" />
       <updated>1773879663097</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL−00005" summary="add assignment1">
+      <option name="closed" value="true" />
+      <created>1774255889054</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1774255889054</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,12 +129,13 @@
     <MESSAGE value="add assignment1 + kokeilupy" />
     <MESSAGE value="add assignment2-4" />
     <MESSAGE value="add assignment4" />
-    <option name="LAST_COMMIT_MESSAGE" value="add assignment4" />
+    <MESSAGE value="add assignment1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add assignment1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Ohjelmisto_2$kokeilu.coverage" NAME="kokeilu Coverage Results" MODIFIED="1773821531079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Ohjelmisto_2$assignment1.coverage" NAME="assignment1 Coverage Results" MODIFIED="1773823941209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module_9" />
-    <SUITE FILE_PATH="coverage/Software_2$assignment2.coverage" NAME="assignment2 Coverage Results" MODIFIED="1773875000095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module_9" />
+    <SUITE FILE_PATH="coverage/Software_2$assignment2.coverage" NAME="assignment2 Coverage Results" MODIFIED="1774259485018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module_10" />
     <SUITE FILE_PATH="coverage/Software_2$assignment4.coverage" NAME="assignment4 Coverage Results" MODIFIED="1774254159384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module_9" />
     <SUITE FILE_PATH="coverage/Software_2$assignment1.coverage" NAME="assignment1 Coverage Results" MODIFIED="1774255703623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module_10" />
   </component>
