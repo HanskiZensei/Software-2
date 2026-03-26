@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4e3481f-116c-40f8-937e-2e7f112abd26" name="Changes" comment="add assignment html+css" />
+    <list default="true" id="b4e3481f-116c-40f8-937e-2e7f112abd26" name="Changes" comment="add assignment html+css">
+      <change afterPath="$PROJECT_DIR$/HTMLCSS/About.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLCSS/HTML.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLCSS/Register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTMLCSS/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html+CSS/HTML + CSS assignment.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -44,6 +52,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.HTML + CSS assignment.html.executor": "Debug",
+    "JavaScript Debug.home.html.executor": "Debug",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.assignment1.executor": "Run",
     "Python.assignment2.executor": "Run",
@@ -55,11 +65,13 @@
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -81,6 +93,7 @@
       <workItem from="1773820830347" duration="5313000" />
       <workItem from="1774254156766" duration="12317000" />
       <workItem from="1774303779230" duration="971000" />
+      <workItem from="1774479395943" duration="14914000" />
     </task>
     <task id="LOCAL−00001" summary="add ohjelmisto2">
       <option name="closed" value="true" />
@@ -138,7 +151,14 @@
       <option name="presentableId" value="LOCAL−00008" />
       <updated>1774305016099</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL−00009" summary="add assignment html+css">
+      <option name="closed" value="true" />
+      <created>1774479422483</created>
+      <option name="number" value="LOCAL−00009" />
+      <option name="presentableId" value="LOCAL−00009" />
+      <updated>1774479422483</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
