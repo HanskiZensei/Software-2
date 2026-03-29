@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4e3481f-116c-40f8-937e-2e7f112abd26" name="Changes" comment="add module 12 assignment 1&amp;2" />
+    <list default="true" id="b4e3481f-116c-40f8-937e-2e7f112abd26" name="Changes" comment="add module 12 assignment 1&amp;2">
+      <change afterPath="$PROJECT_DIR$/HTMLCSS/screenshots.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTMLCSS/About.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTMLCSS/About.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTMLCSS/HTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTMLCSS/HTML.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTMLCSS/Register.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTMLCSS/Register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTMLCSS/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/HTMLCSS/Style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,8 +21,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -68,6 +75,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hannu\OneDrive - Metropolia Ammattikorkeakoulu Oy\Ohjelmisto 1\Software-2\HTMLCSS\images" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -89,6 +101,7 @@
       <workItem from="1774479395943" duration="15200000" />
       <workItem from="1774549852975" duration="381000" />
       <workItem from="1774596598958" duration="5689000" />
+      <workItem from="1774794835353" duration="7160000" />
     </task>
     <task id="LOCAL−00001" summary="add ohjelmisto2">
       <option name="closed" value="true" />
@@ -202,7 +215,14 @@
       <option name="presentableId" value="LOCAL−00016" />
       <updated>1774602368294</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL−00017" summary="add module 12 assignment 1&amp;2">
+      <option name="closed" value="true" />
+      <created>1774794842726</created>
+      <option name="number" value="LOCAL−00017" />
+      <option name="presentableId" value="LOCAL−00017" />
+      <updated>1774794842726</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
