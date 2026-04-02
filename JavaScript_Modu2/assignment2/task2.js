@@ -1,0 +1,1 @@
+const parnum = +prompt("Enter the number of participants")
