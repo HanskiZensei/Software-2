@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4e3481f-116c-40f8-937e-2e7f112abd26" name="Changes" comment="add js module 1">
-      <change beforePath="$PROJECT_DIR$/JavaScript_Modu1/assignment1/task1.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu1/assignment1/task1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript_Modu1/assignment2/task2.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu1/assignment2/task2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript_Modu1/assignment2/task2.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu1/assignment2/task2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_Modu2/assignment1/task1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_Modu2/assignment1/task1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,33 +47,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.HTML + CSS assignment.html.executor": "Debug",
-    "JavaScript Debug.home.html.executor": "Debug",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Node.js.task1.js.executor": "Run",
-    "Python.assignment1.executor": "Run",
-    "Python.assignment2.executor": "Run",
-    "Python.assignment4.executor": "Run",
-    "Python.kokeilu.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.HTML + CSS assignment.html.executor&quot;: &quot;Debug&quot;,
+    &quot;JavaScript Debug.home.html.executor&quot;: &quot;Debug&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Node.js.task1.js.executor&quot;: &quot;Run&quot;,
+    &quot;Python.assignment1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.assignment2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.assignment4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.kokeilu.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hannu\OneDrive - Metropolia Ammattikorkeakoulu Oy\Ohjelmisto 1\Software-2\HTMLCSS\images" />
@@ -115,7 +115,8 @@
       <workItem from="1774596598958" duration="5689000" />
       <workItem from="1774794835353" duration="7797000" />
       <workItem from="1774816980819" duration="224000" />
-      <workItem from="1774973340003" duration="14881000" />
+      <workItem from="1774973340003" duration="14897000" />
+      <workItem from="1775163726031" duration="3717000" />
     </task>
     <task id="LOCAL−00001" summary="add ohjelmisto2">
       <option name="closed" value="true" />
@@ -264,7 +265,14 @@
       <option name="presentableId" value="LOCAL−00021" />
       <updated>1774987589365</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL−00022" summary="add js module 1">
+      <option name="closed" value="true" />
+      <created>1774988357635</created>
+      <option name="number" value="LOCAL−00022" />
+      <option name="presentableId" value="LOCAL−00022" />
+      <updated>1774988357635</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
