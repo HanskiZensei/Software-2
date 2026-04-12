@@ -10,7 +10,7 @@ yhteys = mysql.connector.connect(
     password='New_password.',
     autocommit=True
 )
-@app.route('/kentta/<kentta>')
+@app.route('/kenttä/<kentta>')
 def lentsikka(kentta):
     kursori = yhteys.cursor(dictionary=True)
     sql = "Select ident, name, municipality FROM airport WHERE ident = %s"
