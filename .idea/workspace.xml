@@ -113,7 +113,7 @@
       <workItem from="1774816980819" duration="224000" />
       <workItem from="1774973340003" duration="14897000" />
       <workItem from="1775163726031" duration="3944000" />
-      <workItem from="1775509770886" duration="12411000" />
+      <workItem from="1775509770886" duration="12426000" />
     </task>
     <task id="LOCAL−00001" summary="add ohjelmisto2">
       <option name="closed" value="true" />
@@ -297,7 +297,14 @@
       <option name="presentableId" value="LOCAL−00026" />
       <updated>1775522615397</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL−00027" summary="add js module 2 assignment 6-10">
+      <option name="closed" value="true" />
+      <created>1775522725685</created>
+      <option name="number" value="LOCAL−00027" />
+      <option name="presentableId" value="LOCAL−00027" />
+      <updated>1775522725685</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
