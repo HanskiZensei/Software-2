@@ -3,15 +3,10 @@ import requests
 api_key = "e6bf0366c45b6788f826ffea478b523e"
 municipality = input("Enter municipality name: ")
 
-url = "https://api.openweathermap.org/data/2.5/weather"
-parameters = {
-    "q": municipality,
-    "appid": api_key,
-    "units": "metric"
-}
+url = f"https://api.openweathermap.org/data/2.5/weather?q={municipality}&appid={api_key}&units=metric"
 
 try:
-    response = requests.get(url, params=parameters)
+    response = requests.get(url)
 
     if response.status_code == 200:
         data = response.json()
