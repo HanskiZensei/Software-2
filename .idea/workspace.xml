@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4e3481f-116c-40f8-937e-2e7f112abd26" name="Changes" comment="add python module 13 assignment 1&amp;2">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ac66dd8c-5171-4810-b684-46d28af65483.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/ac66dd8c-5171-4810-b684-46d28af65483.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module_13/assignment2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module_13/assignment2.py" afterDir="false" />
-    </list>
+    <list default="true" id="b4e3481f-116c-40f8-937e-2e7f112abd26" name="Changes" comment="add python module 13 assignment 1&amp;2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,7 +125,7 @@
       <workItem from="1775163726031" duration="3944000" />
       <workItem from="1775509770886" duration="12426000" />
       <workItem from="1776024561916" duration="6691000" />
-      <workItem from="1776031357755" duration="709000" />
+      <workItem from="1776031357755" duration="733000" />
     </task>
     <task id="LOCAL−00001" summary="add ohjelmisto2">
       <option name="closed" value="true" />
@@ -354,7 +351,14 @@
       <option name="presentableId" value="LOCAL−00032" />
       <updated>1776031371704</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL−00033" summary="add python module 13 assignment 1&amp;2">
+      <option name="closed" value="true" />
+      <created>1776032074257</created>
+      <option name="number" value="LOCAL−00033" />
+      <option name="presentableId" value="LOCAL−00033" />
+      <updated>1776032074257</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
