@@ -1,3 +1,4 @@
+import random
 class Car:
     def __init__(self, license_plate, maximum_speed):
         self.license_plate = license_plate
@@ -13,5 +14,21 @@ class Car:
             new_speed = 0
         self.current_speed = new_speed
 
+    def drive(self, hours):
+        hour = hours * self.current_speed
+        total = hour + self.travelled_distance
+        self.travelled_distance = total
+
 
 new_car = Car("ABC-123", 142)
+
+
+def race(cars):
+    finished = False
+    while not finished:
+        for car in cars:
+            car.accelerate(random.randint(-10, 15))
+            car.drive(1)
+            if car.travelled_distance >= 10000:
+                finished = True
+    return cars

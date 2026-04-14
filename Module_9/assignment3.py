@@ -13,5 +13,9 @@ class Car:
             new_speed = 0
         self.current_speed = new_speed
 
+    def drive(self, amount):
+        hour = amount * self.current_speed
+        total = hour + self.travelled_distance
+        self.travelled_distance = total
 
 new_car = Car("ABC-123", 142)

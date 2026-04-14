@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tehtävä palautus</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: silver;
+            color: black;
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+        }
+
+        .kuvat {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            justify-content: center;
+            margin-bottom: 30px;
+        }
+
+        figure {
+            width: 30%;
+            margin: 0;
+            text-align: center;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            border: 1px solid #333;
+            border-radius: 4px;
+        }
+
+        .code-box {
+            background-color: #2d2d2d;
+            color: #f8f8f2;
+            padding: 15px;
+            border-radius: 5px;
+            font-family: monospace;
+            margin: 10px 0;
+        }
+
+        .font-sample {
+            border: 2px solid #333;
+            padding: 15px;
+            background-color: white;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Tehtävän testit</h1>
+
+    <section>
+        <h2>1. Lighthouse-testien tulokset</h2>
+        <div class="kuvat">
+            <figure>
+                <img src="images/lighthouse1.png" alt="Lighthouse 1">
+                <figcaption>HTML.html</figcaption>
+            </figure>
+            <figure>
+                <img src="images/lighthouse2.png" alt="Lighthouse 2">
+                <figcaption>Register.html</figcaption>
+            </figure>
+            <figure>
+                <img src="images/lighthouse3.png" alt="Lighthouse 3">
+                <figcaption>About.html</figcaption>
+            </figure>
+        </div>
+    </section>
+
+    <section>
+        <h2>2. Nu HTML Checker -tulokset</h2>
+        <div class="kuvat">
+            <figure>
+                <img src="images/Nu1.png" alt="Nu My setup">
+                <figcaption>HTML.html</figcaption>
+            </figure>
+            <figure>
+                <img src="images/Nu2.png" alt="Nu Components">
+                <figcaption>Register.html</figcaption>
+            </figure>
+            <figure>
+                <img src="images/Nu3.png" alt="Nu About">
+                <figcaption>About.html</figcaption>
+            </figure>
+        </div>
+    </section>
+
+    <hr>
+
+    <section>
+        <h2>3. Käytetty CSS-fontti</h2>
+        <p>Tässä on sivustolla käytetty CSS-fonttimääritys:</p>
+
+        <div class="code-box">
+            body {<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;font-family: Arial, sans-serif;<br>
+            }
+        </div>
+
+        <div class="font-sample">
+            <p><strong>Fonttinäyte:</strong> Tämä teksti käyttää Arial-fonttia.</p>
+        </div>
+    </section>
+
+</body>
+</html>

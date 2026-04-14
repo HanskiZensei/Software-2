@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4e3481f-116c-40f8-937e-2e7f112abd26" name="Changes" comment="add assignment2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b4e3481f-116c-40f8-937e-2e7f112abd26" name="Changes" comment="add python module 13 assignment 1&amp;2">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ac66dd8c-5171-4810-b684-46d28af65483.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/ac66dd8c-5171-4810-b684-46d28af65483.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_13/assignment2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module_13/assignment2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +16,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -31,8 +35,11 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/HanskiZensei/Software-2.git&quot;,
-    &quot;accountId&quot;: &quot;232422b0-6bf8-49c4-b3cc-fae1b8c8f00d&quot;
+    &quot;accountId&quot;: &quot;c6efbd60-c2e2-47fb-bc69-6e48fd43dc43&quot;
   }
+}</component>
+  <component name="HttpClientOnboardingState">{
+  &quot;isOnboardingCommentShown&quot;: true
 }</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -44,27 +51,61 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;HTTP Request.generated-requests | #1.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.HTML + CSS assignment.html.executor&quot;: &quot;Debug&quot;,
+    &quot;JavaScript Debug.home.html.executor&quot;: &quot;Debug&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Node.js.task1.js.executor&quot;: &quot;Run&quot;,
     &quot;Python.assignment1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.assignment2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.assignment4.executor&quot;: &quot;Run&quot;,
     &quot;Python.kokeilu.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hannu\OneDrive - Metropolia Ammattikorkeakoulu Oy\Ohjelmisto 1\Software-2\HTMLCSS\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="task1.js" type="NodeJSConfigurationType" temporary="true" path-to-node="$APPLICATION_CONFIG_DIR$/node/versions/24.14.1/node" nameIsGenerated="true" path-to-js-file="task1.js" working-dir="$PROJECT_DIR$/JavaScript_Modu1/assignment1">
+      <EXTENSION ID="com.intellij.javascript.debugger.execution.StartBrowserRunConfigurationExtension">
+        <browser with-js-debugger="true" />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.task1.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.142" />
-        <option value="bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.30387.173" />
+        <option value="bundled-python-sdk-4762d8aabb82-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.173" />
       </set>
     </attachedChunks>
   </component>
@@ -75,8 +116,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1773820828968</updated>
-      <workItem from="1773820830347" duration="5335000" />
-      <workItem from="1776161656497" duration="101000" />
+      <workItem from="1773820830347" duration="5313000" />
+      <workItem from="1774254156766" duration="12317000" />
+      <workItem from="1774303779230" duration="971000" />
+      <workItem from="1774479395943" duration="15200000" />
+      <workItem from="1774549852975" duration="381000" />
+      <workItem from="1774596598958" duration="5689000" />
+      <workItem from="1774794835353" duration="7797000" />
+      <workItem from="1774816980819" duration="224000" />
+      <workItem from="1774973340003" duration="14897000" />
+      <workItem from="1775163726031" duration="3944000" />
+      <workItem from="1775509770886" duration="12426000" />
+      <workItem from="1776024561916" duration="6691000" />
+      <workItem from="1776031357755" duration="709000" />
     </task>
     <task id="LOCAL−00001" summary="add ohjelmisto2">
       <option name="closed" value="true" />
@@ -92,14 +144,217 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1773824160405</updated>
     </task>
-    <task id="LOCAL−00003" summary="add assignment2">
+    <task id="LOCAL−00003" summary="add assignment2-4">
       <option name="closed" value="true" />
-      <created>1773867578908</created>
+      <created>1773875321601</created>
       <option name="number" value="LOCAL−00003" />
       <option name="presentableId" value="LOCAL−00003" />
-      <updated>1773867578909</updated>
+      <updated>1773875321601</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL−00004" summary="add assignment4">
+      <option name="closed" value="true" />
+      <created>1773879663097</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1773879663097</updated>
+    </task>
+    <task id="LOCAL−00005" summary="add assignment1">
+      <option name="closed" value="true" />
+      <created>1774255889054</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1774255889054</updated>
+    </task>
+    <task id="LOCAL−00006" summary="add assignment 2 &amp; 3">
+      <option name="closed" value="true" />
+      <created>1774260612519</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1774260612519</updated>
+    </task>
+    <task id="LOCAL−00007" summary="add assignment 4">
+      <option name="closed" value="true" />
+      <created>1774267994966</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1774267994966</updated>
+    </task>
+    <task id="LOCAL−00008" summary="add assignment html+css">
+      <option name="closed" value="true" />
+      <created>1774305016099</created>
+      <option name="number" value="LOCAL−00008" />
+      <option name="presentableId" value="LOCAL−00008" />
+      <updated>1774305016099</updated>
+    </task>
+    <task id="LOCAL−00009" summary="add assignment html+css">
+      <option name="closed" value="true" />
+      <created>1774479422483</created>
+      <option name="number" value="LOCAL−00009" />
+      <option name="presentableId" value="LOCAL−00009" />
+      <updated>1774479422483</updated>
+    </task>
+    <task id="LOCAL−00010" summary="add assignment htmlcss">
+      <option name="closed" value="true" />
+      <created>1774496720406</created>
+      <option name="number" value="LOCAL−00010" />
+      <option name="presentableId" value="LOCAL−00010" />
+      <updated>1774496720406</updated>
+    </task>
+    <task id="LOCAL−00011" summary="add assignment htmlcss">
+      <option name="closed" value="true" />
+      <created>1774496924917</created>
+      <option name="number" value="LOCAL−00011" />
+      <option name="presentableId" value="LOCAL−00011" />
+      <updated>1774496924917</updated>
+    </task>
+    <task id="LOCAL−00012" summary="add assignment htmlcss">
+      <option name="closed" value="true" />
+      <created>1774549858972</created>
+      <option name="number" value="LOCAL−00012" />
+      <option name="presentableId" value="LOCAL−00012" />
+      <updated>1774549858972</updated>
+    </task>
+    <task id="LOCAL−00013" summary="add module 11 &amp; 12">
+      <option name="closed" value="true" />
+      <created>1774550056975</created>
+      <option name="number" value="LOCAL−00013" />
+      <option name="presentableId" value="LOCAL−00013" />
+      <updated>1774550056975</updated>
+    </task>
+    <task id="LOCAL−00014" summary="add module 11 &amp; 12">
+      <option name="closed" value="true" />
+      <created>1774596608355</created>
+      <option name="number" value="LOCAL−00014" />
+      <option name="presentableId" value="LOCAL−00014" />
+      <updated>1774596608355</updated>
+    </task>
+    <task id="LOCAL−00015" summary="add module 11 assignment 1&amp;2">
+      <option name="closed" value="true" />
+      <created>1774599096457</created>
+      <option name="number" value="LOCAL−00015" />
+      <option name="presentableId" value="LOCAL−00015" />
+      <updated>1774599096457</updated>
+    </task>
+    <task id="LOCAL−00016" summary="add module 12 assignment 1&amp;2">
+      <option name="closed" value="true" />
+      <created>1774602368294</created>
+      <option name="number" value="LOCAL−00016" />
+      <option name="presentableId" value="LOCAL−00016" />
+      <updated>1774602368294</updated>
+    </task>
+    <task id="LOCAL−00017" summary="add module 12 assignment 1&amp;2">
+      <option name="closed" value="true" />
+      <created>1774794842726</created>
+      <option name="number" value="LOCAL−00017" />
+      <option name="presentableId" value="LOCAL−00017" />
+      <updated>1774794842726</updated>
+    </task>
+    <task id="LOCAL−00018" summary="add htmlcss assignment 1&amp;2">
+      <option name="closed" value="true" />
+      <created>1774802168353</created>
+      <option name="number" value="LOCAL−00018" />
+      <option name="presentableId" value="LOCAL−00018" />
+      <updated>1774802168353</updated>
+    </task>
+    <task id="LOCAL−00019" summary="add htmlcss assignment 1&amp;2">
+      <option name="closed" value="true" />
+      <created>1774973455300</created>
+      <option name="number" value="LOCAL−00019" />
+      <option name="presentableId" value="LOCAL−00019" />
+      <updated>1774973455300</updated>
+    </task>
+    <task id="LOCAL−00020" summary="add js module 1">
+      <option name="closed" value="true" />
+      <created>1774984723637</created>
+      <option name="number" value="LOCAL−00020" />
+      <option name="presentableId" value="LOCAL−00020" />
+      <updated>1774984723637</updated>
+    </task>
+    <task id="LOCAL−00021" summary="add js module 1">
+      <option name="closed" value="true" />
+      <created>1774987589365</created>
+      <option name="number" value="LOCAL−00021" />
+      <option name="presentableId" value="LOCAL−00021" />
+      <updated>1774987589365</updated>
+    </task>
+    <task id="LOCAL−00022" summary="add js module 1">
+      <option name="closed" value="true" />
+      <created>1774988357635</created>
+      <option name="number" value="LOCAL−00022" />
+      <option name="presentableId" value="LOCAL−00022" />
+      <updated>1774988357635</updated>
+    </task>
+    <task id="LOCAL−00023" summary="add js module 2 assignment 1">
+      <option name="closed" value="true" />
+      <created>1775169096726</created>
+      <option name="number" value="LOCAL−00023" />
+      <option name="presentableId" value="LOCAL−00023" />
+      <updated>1775169096726</updated>
+    </task>
+    <task id="LOCAL−00024" summary="add js module 2 assignment 2">
+      <option name="closed" value="true" />
+      <created>1775169241530</created>
+      <option name="number" value="LOCAL−00024" />
+      <option name="presentableId" value="LOCAL−00024" />
+      <updated>1775169241530</updated>
+    </task>
+    <task id="LOCAL−00025" summary="add js module 2 assignment 2-5">
+      <option name="closed" value="true" />
+      <created>1775517647617</created>
+      <option name="number" value="LOCAL−00025" />
+      <option name="presentableId" value="LOCAL−00025" />
+      <updated>1775517647617</updated>
+    </task>
+    <task id="LOCAL−00026" summary="add js module 2 assignment 6-10">
+      <option name="closed" value="true" />
+      <created>1775522615397</created>
+      <option name="number" value="LOCAL−00026" />
+      <option name="presentableId" value="LOCAL−00026" />
+      <updated>1775522615397</updated>
+    </task>
+    <task id="LOCAL−00027" summary="add js module 2 assignment 6-10">
+      <option name="closed" value="true" />
+      <created>1775522725685</created>
+      <option name="number" value="LOCAL−00027" />
+      <option name="presentableId" value="LOCAL−00027" />
+      <updated>1775522725685</updated>
+    </task>
+    <task id="LOCAL−00028" summary="add js module 2 assignment 6-10">
+      <option name="closed" value="true" />
+      <created>1776024568437</created>
+      <option name="number" value="LOCAL−00028" />
+      <option name="presentableId" value="LOCAL−00028" />
+      <updated>1776024568438</updated>
+    </task>
+    <task id="LOCAL−00029" summary="add js module 2 assignment 6-10">
+      <option name="closed" value="true" />
+      <created>1776025834781</created>
+      <option name="number" value="LOCAL−00029" />
+      <option name="presentableId" value="LOCAL−00029" />
+      <updated>1776025834781</updated>
+    </task>
+    <task id="LOCAL−00030" summary="add python module 13">
+      <option name="closed" value="true" />
+      <created>1776025868666</created>
+      <option name="number" value="LOCAL−00030" />
+      <option name="presentableId" value="LOCAL−00030" />
+      <updated>1776025868666</updated>
+    </task>
+    <task id="LOCAL−00031" summary="add python module 13 assignment 1&amp;2">
+      <option name="closed" value="true" />
+      <created>1776031279143</created>
+      <option name="number" value="LOCAL−00031" />
+      <option name="presentableId" value="LOCAL−00031" />
+      <updated>1776031279143</updated>
+    </task>
+    <task id="LOCAL−00032" summary="add python module 13 assignment 1&amp;2">
+      <option name="closed" value="true" />
+      <created>1776031371704</created>
+      <option name="number" value="LOCAL−00032" />
+      <option name="presentableId" value="LOCAL−00032" />
+      <updated>1776031371704</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,11 +363,31 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add ohjelmisto2" />
     <MESSAGE value="add assignment1 + kokeilupy" />
-    <MESSAGE value="add assignment2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add assignment2" />
+    <MESSAGE value="add assignment2-4" />
+    <MESSAGE value="add assignment4" />
+    <MESSAGE value="add assignment1" />
+    <MESSAGE value="add assignment 2 &amp; 3" />
+    <MESSAGE value="add assignment 4" />
+    <MESSAGE value="add assignment html+css" />
+    <MESSAGE value="add assignment htmlcss" />
+    <MESSAGE value="add module 11 &amp; 12" />
+    <MESSAGE value="add module 11 assignment 1&amp;2" />
+    <MESSAGE value="add module 12 assignment 1&amp;2" />
+    <MESSAGE value="add htmlcss assignment 1&amp;2" />
+    <MESSAGE value="add js module 1" />
+    <MESSAGE value="add js module 2 assignment 1" />
+    <MESSAGE value="add js module 2 assignment 2" />
+    <MESSAGE value="add js module 2 assignment 2-5" />
+    <MESSAGE value="add js module 2 assignment 6-10" />
+    <MESSAGE value="add python module 13" />
+    <MESSAGE value="add python module 13 assignment 1&amp;2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add python module 13 assignment 1&amp;2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Ohjelmisto_2$kokeilu.coverage" NAME="kokeilu Coverage Results" MODIFIED="1773821531079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Ohjelmisto_2$assignment1.coverage" NAME="assignment1 Coverage Results" MODIFIED="1773823941209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module_9" />
+    <SUITE FILE_PATH="coverage/Software_2$assignment2.coverage" NAME="assignment2 Coverage Results" MODIFIED="1776031930882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module_13" />
+    <SUITE FILE_PATH="coverage/Software_2$assignment4.coverage" NAME="assignment4 Coverage Results" MODIFIED="1774267734638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module_10" />
+    <SUITE FILE_PATH="coverage/Software_2$assignment1.coverage" NAME="assignment1 Coverage Results" MODIFIED="1776029149078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module_13" />
   </component>
 </project>
