@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4e3481f-116c-40f8-937e-2e7f112abd26" name="Changes" comment="add python module 13 assignment 1&amp;2" />
+    <list default="true" id="b4e3481f-116c-40f8-937e-2e7f112abd26" name="Changes" comment="add JavaScript_Modu3">
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/assignment1/task1.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/assignment1/task1.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,9 +16,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="Python Script" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -126,6 +128,7 @@
       <workItem from="1775509770886" duration="12426000" />
       <workItem from="1776024561916" duration="6691000" />
       <workItem from="1776031357755" duration="733000" />
+      <workItem from="1776199588357" duration="2120000" />
     </task>
     <task id="LOCAL−00001" summary="add ohjelmisto2">
       <option name="closed" value="true" />
@@ -358,7 +361,21 @@
       <option name="presentableId" value="LOCAL−00033" />
       <updated>1776032074257</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL−00034" summary="add JavaScript_Modu3">
+      <option name="closed" value="true" />
+      <created>1776199755819</created>
+      <option name="number" value="LOCAL−00034" />
+      <option name="presentableId" value="LOCAL−00034" />
+      <updated>1776199755819</updated>
+    </task>
+    <task id="LOCAL−00035" summary="add JavaScript_Modu3">
+      <option name="closed" value="true" />
+      <created>1776199819256</created>
+      <option name="number" value="LOCAL−00035" />
+      <option name="presentableId" value="LOCAL−00035" />
+      <updated>1776199819256</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -385,7 +402,8 @@
     <MESSAGE value="add js module 2 assignment 6-10" />
     <MESSAGE value="add python module 13" />
     <MESSAGE value="add python module 13 assignment 1&amp;2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add python module 13 assignment 1&amp;2" />
+    <MESSAGE value="add JavaScript_Modu3" />
+    <option name="LAST_COMMIT_MESSAGE" value="add JavaScript_Modu3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Ohjelmisto_2$kokeilu.coverage" NAME="kokeilu Coverage Results" MODIFIED="1773821531079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
