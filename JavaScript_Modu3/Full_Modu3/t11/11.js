@@ -93,3 +93,34 @@ const picArray = [
 ];
 
 // add your code here
+const section = document.querySelector("#pictures");
+const modal = document.querySelector("#modal");
+const modalImage = document.querySelector("#modal-img");
+const closeSpan = document.querySelector("#close-modal");
+
+
+for (const pic of picArray){
+  const article = document.createElement("article");
+  article.classList.add("card");
+
+  article.innerHTML = `
+        <h2>${pic.title}</h2>
+        <figure>
+            <img src="${pic.image.medium}" alt="${pic.title}">
+            <figcaption>${pic.caption}</figcaption>
+        </figure>
+        <p>${pic.description}</p>
+    `;
+
+  section.appendChild(article);
+
+    article.addEventListener('click', () => {
+      modalImage.src = pic.image.large;
+      modalImage.alt = pic.title;
+      modal.showModal();
+    });
+}
+
+closeSpan.addEventListener('click', () => {
+    modal.close();
+});

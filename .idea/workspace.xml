@@ -5,7 +5,81 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4e3481f-116c-40f8-937e-2e7f112abd26" name="Changes" comment="add JavaScript_Modu3">
-      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/assignment1/task1.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/assignment1/task1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t10/10.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t11/11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t11/11.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t2/2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t3/3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t4/4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t5/5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t5/img/pic1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t5/img/pic4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t5/img/pic5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t5/img/pic6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t5/img/pic7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t5/img/pic8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t5/img/pic9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t5/thumbnails/pic1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t5/thumbnails/pic2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t5/thumbnails/pic3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t5/thumbnails/pic4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t5/thumbnails/pic5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t5/thumbnails/pic6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t5/thumbnails/pic7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t5/thumbnails/pic8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t5/thumbnails/pic9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t6/6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t7/7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t7/img/picA.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t7/img/picB.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t8/8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t9/9.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t1/1.css" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t1/1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t1/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t1/1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t1/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t1/1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t10/10.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t10/10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t10/10.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t11/11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t2/2.css" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t2/2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t2/2.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t2/2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t2/2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t3/3.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t3/3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t3/3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t4/4.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t4/4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t4/4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t5/5.css" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t11/11.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t5/5.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t5/5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t5/5.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t5/5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t5/img/pic1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t11/img/pic1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t5/img/pic2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t11/img/pic2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t5/img/pic3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t11/img/pic3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t5/img/pic4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t11/img/pic4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t5/img/pic5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t11/img/pic5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t5/img/pic6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t11/img/pic6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t5/img/pic7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t11/img/pic7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t5/img/pic8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t11/img/pic8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t5/img/pic9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t11/img/pic9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t5/thumbnails/pic1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t11/thumbnails/pic1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t5/thumbnails/pic2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t11/thumbnails/pic2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t5/thumbnails/pic3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t11/thumbnails/pic3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t5/thumbnails/pic4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t11/thumbnails/pic4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t5/thumbnails/pic5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t11/thumbnails/pic5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t5/thumbnails/pic6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t11/thumbnails/pic6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t5/thumbnails/pic7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t11/thumbnails/pic7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t5/thumbnails/pic8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t11/thumbnails/pic8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t5/thumbnails/pic9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t11/thumbnails/pic9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t6/6.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t6/6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t6/6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t7/7.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t7/7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t7/7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t7/img/picA.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t5/img/pic2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t7/img/picB.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t5/img/pic3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t8/8.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t8/8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t8/8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t9/9.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript_Modu3/Full_Modu3/t9/9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t9/9.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,42 +122,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;HTTP Request.generated-requests | #1.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.HTML + CSS assignment.html.executor&quot;: &quot;Debug&quot;,
-    &quot;JavaScript Debug.home.html.executor&quot;: &quot;Debug&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Node.js.task1.js.executor&quot;: &quot;Run&quot;,
-    &quot;Python.assignment1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.assignment2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.assignment4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kokeilu.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "HTTP Request.generated-requests | #1.executor": "Run",
+    "JavaScript Debug.HTML + CSS assignment.html.executor": "Debug",
+    "JavaScript Debug.home.html.executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.task1.js.executor": "Run",
+    "Python.assignment1.executor": "Run",
+    "Python.assignment2.executor": "Run",
+    "Python.assignment4.executor": "Run",
+    "Python.kokeilu.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/hannu/OneDrive - Metropolia Ammattikorkeakoulu Oy/Ohjelmisto 1/Software-2/JavaScript_Modu3/extra_files_modu3/module3-starters-main/module3-starters-main/t11",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hannu\OneDrive - Metropolia Ammattikorkeakoulu Oy\Ohjelmisto 1\Software-2\JavaScript_Modu3\extra_files_modu3\module3-starters-main\module3-starters-main\t11" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hannu\OneDrive - Metropolia Ammattikorkeakoulu Oy\Ohjelmisto 1\Software-2\JavaScript_Modu3" />
       <recent name="C:\Users\hannu\OneDrive - Metropolia Ammattikorkeakoulu Oy\Ohjelmisto 1\Software-2\HTMLCSS\images" />
     </key>
   </component>
@@ -128,7 +207,7 @@
       <workItem from="1775509770886" duration="12426000" />
       <workItem from="1776024561916" duration="6691000" />
       <workItem from="1776031357755" duration="733000" />
-      <workItem from="1776199588357" duration="2120000" />
+      <workItem from="1776199588357" duration="10707000" />
     </task>
     <task id="LOCAL−00001" summary="add ohjelmisto2">
       <option name="closed" value="true" />
@@ -375,7 +454,14 @@
       <option name="presentableId" value="LOCAL−00035" />
       <updated>1776199819256</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL−00036" summary="add JavaScript_Modu3">
+      <option name="closed" value="true" />
+      <created>1776201745431</created>
+      <option name="number" value="LOCAL−00036" />
+      <option name="presentableId" value="LOCAL−00036" />
+      <updated>1776201745431</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
