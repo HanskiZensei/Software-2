@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4e3481f-116c-40f8-937e-2e7f112abd26" name="Changes" comment="add JavaScript_Modu3">
-      <change afterPath="$PROJECT_DIR$/JavaScript_Modu4/assignment1/task1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_Modu4/assignment1/task1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_Modu4/assignment2/task2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_Modu4/assignment2/task2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_Modu4/assignment3/task3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript_Modu4/assignment3/task3.js" afterDir="false" />
+    <list default="true" id="b4e3481f-116c-40f8-937e-2e7f112abd26" name="Changes" comment="add module 13 1&amp;2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +34,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/HanskiZensei/Software-2.git&quot;,
-    &quot;accountId&quot;: &quot;c6efbd60-c2e2-47fb-bc69-6e48fd43dc43&quot;
+    &quot;accountId&quot;: &quot;232422b0-6bf8-49c4-b3cc-fae1b8c8f00d&quot;
   }
 }</component>
   <component name="HttpClientOnboardingState">{
@@ -114,8 +108,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.30387.173" />
-        <option value="bundled-python-sdk-4762d8aabb82-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.173" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.142" />
+        <option value="bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142" />
       </set>
     </attachedChunks>
   </component>
@@ -139,9 +133,9 @@
       <workItem from="1775509770886" duration="12426000" />
       <workItem from="1776024561916" duration="6691000" />
       <workItem from="1776031357755" duration="733000" />
-      <workItem from="1776199588357" duration="10815000" />
-      <workItem from="1776211988479" duration="243000" />
-      <workItem from="1776883983830" duration="617000" />
+      <workItem from="1776199588357" duration="10707000" />
+      <workItem from="1776252076491" duration="4000" />
+      <workItem from="1776326646288" duration="3000" />
     </task>
     <task id="LOCAL−00001" summary="add ohjelmisto2">
       <option name="closed" value="true" />
@@ -395,12 +389,12 @@
       <option name="presentableId" value="LOCAL−00036" />
       <updated>1776201745431</updated>
     </task>
-    <task id="LOCAL−00037" summary="add JavaScript_Modu3">
+    <task id="LOCAL−00037" summary="add module 13 1&amp;2">
       <option name="closed" value="true" />
-      <created>1776211880663</created>
+      <created>1776234237904</created>
       <option name="number" value="LOCAL−00037" />
       <option name="presentableId" value="LOCAL−00037" />
-      <updated>1776211880663</updated>
+      <updated>1776234237904</updated>
     </task>
     <option name="localTasksCounter" value="38" />
     <servers />
@@ -430,13 +424,15 @@
     <MESSAGE value="add python module 13" />
     <MESSAGE value="add python module 13 assignment 1&amp;2" />
     <MESSAGE value="add JavaScript_Modu3" />
-    <option name="LAST_COMMIT_MESSAGE" value="add JavaScript_Modu3" />
+    <MESSAGE value="add module 13 1&amp;2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add module 13 1&amp;2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Ohjelmisto_2$kokeilu.coverage" NAME="kokeilu Coverage Results" MODIFIED="1773821531079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Ohjelmisto_2$assignment1.coverage" NAME="assignment1 Coverage Results" MODIFIED="1773823941209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module_9" />
     <SUITE FILE_PATH="coverage/Software_2$assignment2.coverage" NAME="assignment2 Coverage Results" MODIFIED="1776031930882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module_13" />
     <SUITE FILE_PATH="coverage/Software_2$assignment4.coverage" NAME="assignment4 Coverage Results" MODIFIED="1774267734638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/module_10" />
+    <SUITE FILE_PATH="coverage/Ohjelmisto_2$assignment2.coverage" NAME="assignment2 Coverage Results" MODIFIED="1776233993899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module_13" />
     <SUITE FILE_PATH="coverage/Software_2$assignment1.coverage" NAME="assignment1 Coverage Results" MODIFIED="1776029149078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Module_13" />
   </component>
 </project>

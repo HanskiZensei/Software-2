@@ -1,9 +1,10 @@
 from flask import Flask
 
 app = Flask(__name__)
+
+
 @app.route('/alkuluku/<int:integer>')
 def alkuluku(integer):
-
     prime = True
     if integer <= 1:
         prime = False
@@ -16,7 +17,6 @@ def alkuluku(integer):
 
     if prime:
         print(f"{integer} is a prime number. ")
-
 
     return {
         "Number": integer,
